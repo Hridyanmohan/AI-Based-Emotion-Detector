@@ -1,4 +1,7 @@
-# AI-Based Emotion Detection System
+# Final Project: Emotion Detector
+
+## AI-Based Emotion Detection System
+
 
 ## Project Description
 This project is a web-based application developed using **Python** and **Flask**. It leverages the **Watson NLP** library to analyze text provided by the user and identifies the underlying emotions. The application processes five key emotions: **anger, disgust, fear, joy, and sadness**, and determines which one is the **dominant emotion**.
